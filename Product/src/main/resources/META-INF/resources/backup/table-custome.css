@@ -1,0 +1,24 @@
+.container {
+	background-color: #ffffff;
+}
+
+.jumbotron {
+	margin-top: 70px;
+	
+}
+
+img {
+	width: 30px;
+	height: 35px;
+}
+
+h4 {
+	font-weight: bold;
+	color: #409498;
+}
+h3{
+color:black;
+}
+.container .jumbotron, .container-fluid .jumbotron:hover{
+	font-weight:bold;
+}

@@ -1,0 +1,4 @@
+Bundle-Name: Product
+Bundle-SymbolicName: com.parmar.product
+Bundle-Version: 1.0.0
+Export-Package: com.parmar.product.constants
